@@ -7,10 +7,10 @@ I help teams and company to achieve more. Improving code, processes, flows, arch
 I am very focused on delivering value to customers as faster and cheaper as possible, without giving up quality!
 
 ### Main Qualifications
-• Software developer with 10+ years in a wide variety of software, system architectures, applications, programming languages and databases. Well-versed in Backend, Frontend and DevOps
-• Excellent knowledge of Java, JavaScript, Golang, Python and PHP;
-• Writer and open source contributor;
-• Team leadership, Project management and Agile coach.
+- Software developer with 10+ years in a wide variety of software, system architectures, applications, programming languages and databases. Well-versed in Backend, Frontend and DevOps
+- Excellent knowledge of Java, JavaScript, Golang, Python and PHP;
+- Writer and open source contributor;
+- Team leadership, Project management and Agile coach.
 
 ### Relevant opensource contribution on
 - DevOps
@@ -18,3 +18,6 @@ I am very focused on delivering value to customers as faster and cheaper as poss
 - Machine learning
 - Forex trading
 
+### Find me on
+- [LinkedIn](https://www.linkedin.com/in/alexsandro-souza-2b892b22/)
+- [Medium](https://medium.com/@alexsandrosouza)
