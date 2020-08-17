@@ -13,10 +13,12 @@ I am very focused on delivering value to customers as faster and cheaper as poss
 - Team leadership, Project management and Agile coach.
 
 ### Relevant opensource contribution on
+- Microservices
 - DevOps
 - Big Data
 - Machine learning
 - Forex trading
+- gRPC
 
 ### Find me on
 - [LinkedIn](https://www.linkedin.com/in/alexsandro-souza-2b892b22/)
