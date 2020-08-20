@@ -5,6 +5,7 @@
 I help teams and company to achieve more. Improving code, processes, flows, architecture, communication and human resources
 
 </p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=apssouza22 alt=apssouza22 /> </p>
 
