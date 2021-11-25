@@ -14,5 +14,9 @@ I help teams and company to achieve more. Improving code, processes, flows, arch
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=apssouza22 alt=apssouza22 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=apssouza22&show_icons=true&include_all_commits=true)](https://github.com/apssouza22/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apssouza22&layout=compact)](https://github.com/apssouza22/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=apssouza22&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apssouza22&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apssouza22&repo=grpc-production-java,grpc-production-go,java-microservice,githooks,k8s-microservices)](https://github.com/anuraghazra/github-readme-stats)
