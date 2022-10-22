@@ -23,3 +23,5 @@ I help teams and company to achieve more. Improving code, processes, flows, arch
 - [Computer vision with OpenCV](https://github.com/apssouza22/computer-vision)
 - [gRPC for production](https://github.com/apssouza22/grpc-production-go)
 - [Java microservice](https://github.com/apssouza22/java-microservice)
+- [Neural Network with Javascript from scratch](https://github.com/apssouza22/neuralnet-browser)
+- [Modern API management using Protobuf](https://github.com/apssouza22/modern-api-management)
