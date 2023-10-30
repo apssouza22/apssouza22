@@ -21,7 +21,7 @@ Beyond my day-to-day work, I am giving back to positively impact the community w
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=apssouza22&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apssouza22&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apssouza22&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some of my popular opensource project
 - [Computer vision with OpenCV](https://github.com/apssouza22/computer-vision)
