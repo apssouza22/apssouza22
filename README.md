@@ -26,6 +26,7 @@ Beyond my day-to-day work, I am giving back to positively impact the community w
 ## Some of my popular opensource project
 - [Computer vision with OpenCV](https://github.com/apssouza22/computer-vision)
 - [gRPC for production](https://github.com/apssouza22/grpc-production-go)
-- [Java microservice](https://github.com/apssouza22/java-microservice)
+- [Trading system](https://github.com/apssouza22/trading-system)
+- [Video chat using Webrtc](https://github.com/apssouza22/video-chat-rtc)
 - [Neural Network with Javascript from scratch](https://github.com/apssouza22/neuralnet-browser)
 - [Modern API management using Protobuf](https://github.com/apssouza22/modern-api-management)
