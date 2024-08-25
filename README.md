@@ -23,10 +23,24 @@ Beyond my day-to-day work, I am giving back to positively impact the community w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apssouza22&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-## Some of my popular opensource project
-- [Computer vision with OpenCV](https://github.com/apssouza22/computer-vision)
+## My most interesting projects
+
+### Architecture and Desing
+- [Service Mesh](https://github.com/apssouza22/service-mesh-istio)
+- [Big data Pipeline](https://github.com/apssouza22/big-data-pipeline-lambda-arch)
+- [Microservices with Java](https://github.com/apssouza22/java-microservice)
+- [Security Architecture for Distributed Systems](https://github.com/apssouza22/security-architecture)
 - [gRPC for production](https://github.com/apssouza22/grpc-production-go)
-- [Trading system](https://github.com/apssouza22/trading-system)
+- [Trading system with Java](https://github.com/apssouza22/trading-system)
 - [Video chat using Webrtc](https://github.com/apssouza22/video-chat-rtc)
-- [Neural Network with Javascript from scratch](https://github.com/apssouza22/neuralnet-browser)
 - [Modern API management using Protobuf](https://github.com/apssouza22/modern-api-management)
+
+### AI/DL/ML
+- [Smart drone](https://github.com/apssouza22/smart-drone)
+- [Conversational UI using AI Agents](https://github.com/apssouza22/chatflow)
+- [Neural Network with Javascript from scratch](https://github.com/apssouza22/neuralnet-browser)
+- [Neuroevolution - ANN and Genetic Algo](https://github.com/apssouza22/neuroevolution)
+- [CNN for developers](https://github.com/apssouza22/cnn-for-devs)
+- [Computer vision with OpenCV](https://github.com/apssouza22/computer-vision)
+- [Reiforcement Learning wiht vanilla Js](https://github.com/apssouza22/reinforcement-learning-snake)
+
