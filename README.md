@@ -38,6 +38,7 @@ Beyond my day-to-day work, I am giving back to positively impact the community w
 ### AI/DL/ML
 - [Smart drone](https://github.com/apssouza22/smart-drone)
 - [Conversational UI using AI Agents](https://github.com/apssouza22/chatflow)
+- [Vanilla ReAct Agent](https://github.com/apssouza22/ai-agent-react-llm)
 - [Neural Network with Javascript from scratch](https://github.com/apssouza22/neuralnet-browser)
 - [Neuroevolution - ANN and Genetic Algo](https://github.com/apssouza22/neuroevolution)
 - [CNN for developers](https://github.com/apssouza22/cnn-for-devs)
